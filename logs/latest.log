@@ -1,0 +1,710 @@
+[08:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4082ms or 81 ticks behind
+[08:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40046241ms or 800924 ticks behind
+[08:43:36] [Render thread/INFO]: Audio device was lost!
+[08:43:36] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[08:43:36] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[08:43:36] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Focusrite USB Audio)
+[08:43:36] [Render thread/INFO]: Sound engine started
+[10:02:35] [Server thread/INFO]: Saving and pausing game...
+[10:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[10:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[10:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[17:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4101ms or 82 ticks behind
+[17:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17882139ms or 357642 ticks behind
+[17:10:19] [Render thread/INFO]: Audio device was lost!
+[17:10:19] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[17:10:19] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[17:10:19] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Focusrite USB Audio)
+[17:10:19] [Render thread/INFO]: Sound engine started
+[19:21:37] [Server thread/INFO]: Saving and pausing game...
+[19:21:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[19:21:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[19:21:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:13:33] [Server thread/INFO]: Saving and pausing game...
+[20:13:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:13:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:13:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:15:10] [Server thread/INFO]: Saving and pausing game...
+[20:15:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:15:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:15:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:15:12] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^ facing entity epicfacepace
+[20:15:12] [Server thread/INFO]: Saving and pausing game...
+[20:15:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:15:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:15:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:15:14] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run summon minecraft:armor_stand ^ ^ ^ {NoGravity:1b}
+[20:15:15] [Server thread/INFO]: Saving and pausing game...
+[20:15:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:15:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:15:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:15:23] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^0.1 facing entity epicfacepace
+[20:15:29] [Server thread/INFO]: Saving and pausing game...
+[20:15:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:15:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:15:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:15:32] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:15:55] [Server thread/INFO]: Saving and pausing game...
+[20:15:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:15:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:15:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:16:28] [Server thread/INFO]: Saving and pausing game...
+[20:16:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:16:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:16:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:16:31] [Render thread/INFO]: [System] [CHAT] Command set: execute as @e[type=minecraft:armor_stand] at @e[type=minecraft:armor_stand] run tp ^ ^ ^1
+[20:17:09] [Render thread/INFO]: Loaded 24 advancements
+[20:17:38] [Server thread/INFO]: Saving and pausing game...
+[20:17:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:17:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:17:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:50] [Server thread/INFO]: Saving and pausing game...
+[20:18:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:54] [Server thread/INFO]: Saving and pausing game...
+[20:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:54] [Server thread/INFO]: Saving and pausing game...
+[20:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:56] [Server thread/INFO]: Saving and pausing game...
+[20:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:57] [Server thread/INFO]: Saving and pausing game...
+[20:18:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:58] [Server thread/INFO]: Saving and pausing game...
+[20:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:58] [Server thread/INFO]: Saving and pausing game...
+[20:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:59] [Server thread/INFO]: Saving and pausing game...
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:18:59] [Server thread/INFO]: Saving and pausing game...
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:00] [Server thread/INFO]: Saving and pausing game...
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:00] [Server thread/INFO]: Saving and pausing game...
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:00] [Server thread/INFO]: Saving and pausing game...
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:01] [Server thread/INFO]: Saving and pausing game...
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:01] [Server thread/INFO]: Saving and pausing game...
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:01] [Server thread/INFO]: Saving and pausing game...
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:01] [Server thread/INFO]: Saving and pausing game...
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:02] [Server thread/INFO]: Saving and pausing game...
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:02] [Server thread/INFO]: Saving and pausing game...
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:02] [Server thread/INFO]: Saving and pausing game...
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:02] [Server thread/INFO]: Saving and pausing game...
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:02] [Server thread/INFO]: Saving and pausing game...
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:03] [Server thread/INFO]: Saving and pausing game...
+[20:19:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:03] [Server thread/INFO]: Saving and pausing game...
+[20:19:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:04] [Server thread/INFO]: Saving and pausing game...
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:04] [Server thread/INFO]: Saving and pausing game...
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:04] [Server thread/INFO]: Saving and pausing game...
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:05] [Server thread/INFO]: Saving and pausing game...
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:05] [Server thread/INFO]: Saving and pausing game...
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:05] [Server thread/INFO]: Saving and pausing game...
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:05] [Server thread/INFO]: Saving and pausing game...
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:05] [Server thread/INFO]: Saving and pausing game...
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:06] [Server thread/INFO]: Saving and pausing game...
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:06] [Server thread/INFO]: Saving and pausing game...
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:06] [Server thread/INFO]: Saving and pausing game...
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:06] [Server thread/INFO]: Saving and pausing game...
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:06] [Server thread/INFO]: Saving and pausing game...
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:07] [Server thread/INFO]: Saving and pausing game...
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:07] [Server thread/INFO]: Saving and pausing game...
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:07] [Server thread/INFO]: Saving and pausing game...
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:07] [Server thread/INFO]: Saving and pausing game...
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:07] [Server thread/INFO]: Saving and pausing game...
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:08] [Server thread/INFO]: Saving and pausing game...
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:08] [Server thread/INFO]: Saving and pausing game...
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:08] [Server thread/INFO]: Saving and pausing game...
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:08] [Server thread/INFO]: Saving and pausing game...
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:08] [Server thread/INFO]: Saving and pausing game...
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:09] [Server thread/INFO]: Saving and pausing game...
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:09] [Server thread/INFO]: Saving and pausing game...
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:09] [Server thread/INFO]: Saving and pausing game...
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:19:09] [Server thread/INFO]: Saving and pausing game...
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:20:08] [Server thread/INFO]: Saving and pausing game...
+[20:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:20:39] [Render thread/INFO]: [System] [CHAT] Command set: execute as @e[type=minecraft:armor_stand] at @e[type=minecraft:armor_stand] if block ~ ~ ~ air run tp ^ ^ ^1
+[20:21:36] [Server thread/INFO]: Saving and pausing game...
+[20:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:22:58] [Server thread/INFO]: Saving and pausing game...
+[20:22:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:22:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:22:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:23:08] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace anchored eyes rotated as epicfacepace run summon minecraft:armor_stand ^ ^ ^ {NoGravity:1b}
+[20:23:14] [Server thread/INFO]: Saving and pausing game...
+[20:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:23:22] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace anchored eyes rotated as epicfacepace run summon minecraft:armor_stand ^ ^ ^ {NoGravity:1b}
+[20:23:23] [Server thread/INFO]: Saving and pausing game...
+[20:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:23:31] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace anchored eyes run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:23:41] [Server thread/INFO]: Saving and pausing game...
+[20:23:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:23:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:23:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:23:46] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace anchored eyes rotated as epicfacepace run summon minecraft:armor_stand ^ ^1.6 ^ {NoGravity:1b}
+[20:23:54] [Server thread/INFO]: Saving and pausing game...
+[20:23:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:23:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:23:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:23:58] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace anchored eyes run tp @e[type=minecraft:armor_stand] ^ ^1.6 ^-0.1 facing entity epicfacepace
+[20:24:08] [Server thread/INFO]: Saving and pausing game...
+[20:24:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:24:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:24:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:24:16] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace anchored eyes rotated as epicfacepace run summon minecraft:armor_stand ^ ^ ^ {NoGravity:1b}
+[20:24:17] [Server thread/INFO]: Saving and pausing game...
+[20:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:24:20] [Server thread/INFO]: Saving and pausing game...
+[20:24:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:24:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:24:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:24:22] [Server thread/INFO]: Saving and pausing game...
+[20:24:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:24:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:24:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:24:24] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace anchored eyes run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:24:33] [Server thread/INFO]: Saving and pausing game...
+[20:24:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:24:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:24:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:24:40] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run summon minecraft:armor_stand ^ ^ ^ {NoGravity:1b}
+[20:24:41] [Server thread/INFO]: Saving and pausing game...
+[20:24:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:24:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:24:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:24:46] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:25:06] [Server thread/INFO]: Saving and pausing game...
+[20:25:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:25:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:25:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:25:23] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^
+[20:25:29] [Server thread/INFO]: Saving and pausing game...
+[20:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:25:32] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^0.1
+[20:25:37] [Server thread/INFO]: Saving and pausing game...
+[20:25:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:25:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:25:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:25:46] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^0.1
+[20:25:51] [Server thread/INFO]: Saving and pausing game...
+[20:25:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:25:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:25:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:26:07] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:26:56] [Server thread/INFO]: Saving and pausing game...
+[20:26:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:26:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:26:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:26:58] [Render thread/INFO]: [System] [CHAT] Command set: kill @e[type=minecraft:armor_stand]
+[20:26:59] [Server thread/INFO]: Saving and pausing game...
+[20:26:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:26:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:26:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:01] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run summon minecraft:armor_stand ^ ^ ^ {NoGravity:1b}
+[20:27:02] [Server thread/INFO]: Saving and pausing game...
+[20:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:03] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:27:13] [Server thread/INFO]: Saving and pausing game...
+[20:27:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:14] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:27:17] [Server thread/INFO]: Saving and pausing game...
+[20:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:18] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:27:31] [Server thread/INFO]: Saving and pausing game...
+[20:27:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:32] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:27:33] [Server thread/INFO]: Saving and pausing game...
+[20:27:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:34] [Render thread/INFO]: [System] [CHAT] Command set: scoreboard players set epicfacepace step 0
+[20:27:34] [Server thread/INFO]: Saving and pausing game...
+[20:27:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:35] [Render thread/INFO]: [System] [CHAT] Command set: scoreboard players add epicfacepace step 1
+[20:27:40] [Server thread/INFO]: Saving and pausing game...
+[20:27:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:41] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:27:42] [Server thread/INFO]: Saving and pausing game...
+[20:27:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:44] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:27:44] [Server thread/INFO]: Saving and pausing game...
+[20:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:27:51] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:27:59] [Server thread/INFO]: Saving and pausing game...
+[20:27:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:27:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:27:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:28:03] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:28:03] [Server thread/INFO]: Saving and pausing game...
+[20:28:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:28:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:28:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:28:04] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:28:05] [Server thread/INFO]: Saving and pausing game...
+[20:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:28:11] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:28:23] [Server thread/INFO]: Saving and pausing game...
+[20:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:28:37] [Server thread/INFO]: Saving and pausing game...
+[20:28:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:28:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:28:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:28:55] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:28:57] [Server thread/INFO]: Saving and pausing game...
+[20:28:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:28:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:28:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:28:57] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:29:02] [Server thread/INFO]: Saving and pausing game...
+[20:29:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:04] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:29:05] [Server thread/INFO]: Saving and pausing game...
+[20:29:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:12] [Render thread/INFO]: [System] [CHAT] Command set: execute as epicfacepace at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:29:16] [Server thread/INFO]: Saving and pausing game...
+[20:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:19] [Render thread/INFO]: [System] [CHAT] Command set: execute as epicfacepace at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:29:20] [Server thread/INFO]: Saving and pausing game...
+[20:29:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:22] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:29:23] [Server thread/INFO]: Saving and pausing game...
+[20:29:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:27] [Render thread/INFO]: [System] [CHAT] Command set: execute as epicfacepace at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:29:29] [Server thread/INFO]: Saving and pausing game...
+[20:29:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:30] [Render thread/INFO]: [System] [CHAT] Command set: execute as epicfacepace at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:29:30] [Server thread/INFO]: Saving and pausing game...
+[20:29:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:31] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:29:32] [Server thread/INFO]: Saving and pausing game...
+[20:29:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:34] [Render thread/INFO]: [System] [CHAT] Command set: execute as epicfacepace at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:29:38] [Server thread/INFO]: Saving and pausing game...
+[20:29:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:29:39] [Render thread/INFO]: [System] [CHAT] Command set: execute as epicfacepace at epicfacepace run tp @e[type=minecraft:armor_stand] ~ ~ ~
+[20:29:45] [Server thread/INFO]: Saving and pausing game...
+[20:29:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:29:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:29:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:20] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:21] [Server thread/INFO]: Saving and pausing game...
+[20:32:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:25] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:26] [Server thread/INFO]: Saving and pausing game...
+[20:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:28] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:28] [Server thread/INFO]: Saving and pausing game...
+[20:32:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:29] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:29] [Server thread/INFO]: Saving and pausing game...
+[20:32:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:30] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:30] [Server thread/INFO]: Saving and pausing game...
+[20:32:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:32] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:32] [Server thread/INFO]: Saving and pausing game...
+[20:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:33] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:33] [Server thread/INFO]: Saving and pausing game...
+[20:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:37] [Server thread/INFO]: Saving and pausing game...
+[20:32:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:39] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:39] [Server thread/INFO]: Saving and pausing game...
+[20:32:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:40] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:41] [Server thread/INFO]: Saving and pausing game...
+[20:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:43] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:43] [Server thread/INFO]: Saving and pausing game...
+[20:32:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:44] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:44] [Server thread/INFO]: Saving and pausing game...
+[20:32:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:45] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:46] [Server thread/INFO]: Saving and pausing game...
+[20:32:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:32:47] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step = epicfacepace step_min
+[20:32:47] [Server thread/INFO]: Saving and pausing game...
+[20:32:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:32:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:32:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:33:26] [Render thread/INFO]: [System] [CHAT] Command set: execute if score epicfacepace step matches 0..1
+[20:34:18] [Server thread/INFO]: [epicfacepace: Summoned new Armor Stand]
+[20:34:18] [Render thread/INFO]: [System] [CHAT] Summoned new Armor Stand
+[20:34:29] [Server thread/INFO]: Saving and pausing game...
+[20:34:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:34:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:34:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:35:12] [Server thread/INFO]: Saving and pausing game...
+[20:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:37:36] [Server thread/INFO]: Saving and pausing game...
+[20:37:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:37:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:37:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:37:39] [Server thread/INFO]: Saving and pausing game...
+[20:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:37:42] [Render thread/INFO]: [System] [CHAT] Command set: execute at epicfacepace rotated as epicfacepace run tp @e[type=minecraft:armor_stand] ^ ^ ^-0.1 facing entity epicfacepace
+[20:38:24] [Server thread/INFO]: Saving and pausing game...
+[20:38:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:38:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:38:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:40:26] [Server thread/INFO]: Saving and pausing game...
+[20:40:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:40:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:40:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:40:26] [Server thread/INFO]: epicfacepace lost connection: Disconnected
+[20:40:26] [Server thread/INFO]: epicfacepace left the game
+[20:40:26] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:40:26] [Server thread/INFO]: Stopping server
+[20:40:26] [Server thread/INFO]: Saving players
+[20:40:26] [Server thread/INFO]: Saving worlds
+[20:40:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:overworld
+[20:40:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_nether
+[20:40:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands]'/minecraft:the_end
+[20:40:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Commands): All chunks are saved
+[20:40:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:40:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:40:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:40:30] [Render thread/INFO]: Loaded 7 recipes
+[20:40:30] [Render thread/INFO]: Loaded 1271 advancements
+[20:40:30] [IO-Worker-93/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:40:30] [IO-Worker-95/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:40:31] [IO-Worker-90/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:40:31] [IO-Worker-80/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:40:41] [Server thread/INFO]: Starting integrated minecraft server version 1.20.2
+[20:40:41] [Server thread/INFO]: Generating keypair
+[20:40:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:40:42] [Render thread/INFO]: Preparing spawn area: 0%
+[20:40:42] [Render thread/INFO]: Preparing spawn area: 18%
+[20:40:42] [Render thread/INFO]: Preparing spawn area: 60%
+[20:40:43] [Render thread/INFO]: Preparing spawn area: 93%
+[20:40:43] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:40:43] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:40:43] [Render thread/INFO]: Time elapsed: 1556 ms
+[20:40:43] [Server thread/INFO]: epicfacepace[local:E:2baa3145] logged in with entity id 956 at (9.5, -32.0, -3.5)
+[20:40:43] [Server thread/INFO]: epicfacepace joined the game
+[20:40:43] [Render thread/INFO]: Loaded 2 advancements
+[20:40:47] [Server thread/INFO]: [epicfacepace: Set the time to 6000]
+[20:40:47] [Render thread/INFO]: [System] [CHAT] Set the time to 6000
+[20:41:06] [Render thread/INFO]: [System] [CHAT] Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[20:41:06] [Render thread/INFO]: [System] [CHAT] ...mer dummy Timer<--[HERE]
+[20:41:10] [Render thread/INFO]: [System] [CHAT] Invalid chat component: Unterminated string at line 1 column 7 path $
+[20:41:10] [Render thread/INFO]: [System] [CHAT] ...mer dummy "Timer<--[HERE]
+[20:41:12] [Server thread/INFO]: [epicfacepace: Created new objective [Timer]]
+[20:41:12] [Render thread/INFO]: [System] [CHAT] Created new objective [Timer]
+[20:41:25] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[20:41:25] [Render thread/INFO]: [System] [CHAT] ...pace timer<--[HERE]
+[20:41:27] [Server thread/INFO]: [epicfacepace: Added 0 to [Timer] for epicfacepace (now 0)]
+[20:41:27] [Render thread/INFO]: [System] [CHAT] Added 0 to [Timer] for epicfacepace (now 0)
+[20:41:52] [Server thread/INFO]: [epicfacepace: Set display slot sidebar to show objective Timer]
+[20:41:52] [Render thread/INFO]: [System] [CHAT] Set display slot sidebar to show objective Timer
+[20:41:55] [Server thread/INFO]: Saving and pausing game...
+[20:41:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:overworld
+[20:41:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_nether
+[20:41:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_end
+[20:42:09] [Render thread/INFO]: [System] [CHAT] Command set: scoreboard players add epicfacepace timer 1
+[20:42:10] [Server thread/INFO]: Saving and pausing game...
+[20:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:overworld
+[20:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_nether
+[20:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_end
+[20:42:11] [Render thread/INFO]: [System] [CHAT] Command set: scoreboard players add epicfacepace timer 1
+[20:42:14] [Render thread/INFO]: Loaded 3 advancements
+[20:42:18] [Server thread/INFO]: Saving and pausing game...
+[20:42:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:overworld
+[20:42:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_nether
+[20:42:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_end
+[20:42:37] [Server thread/INFO]: Saving and pausing game...
+[20:42:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:overworld
+[20:42:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_nether
+[20:42:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_end
+[20:42:47] [Server thread/INFO]: Saving and pausing game...
+[20:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:overworld
+[20:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_nether
+[20:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_end
+[20:50:54] [Server thread/INFO]: Saving and pausing game...
+[20:50:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:overworld
+[20:50:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_nether
+[20:50:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_end
+[20:50:55] [Server thread/INFO]: epicfacepace lost connection: Disconnected
+[20:50:55] [Server thread/INFO]: epicfacepace left the game
+[20:50:55] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:50:55] [Server thread/INFO]: Stopping server
+[20:50:55] [Server thread/INFO]: Saving players
+[20:50:55] [Server thread/INFO]: Saving worlds
+[20:50:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:overworld
+[20:50:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_nether
+[20:50:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Commands 2]'/minecraft:the_end
+[20:50:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (Commands 2): All chunks are saved
+[20:50:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:50:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:50:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:50:56] [Render thread/WARN]: Failed to process task pending invite count, will repeat after 2 cycles
+ens: Realms authentication error with message 'Invalid session id'
+	at emf.a(SourceFile:432) ~[minecraft-1.20.2-client.jar:?]
+	at emf.h(SourceFile:342) ~[minecraft-1.20.2-client.jar:?]
+	at emf.g(SourceFile:337) ~[minecraft-1.20.2-client.jar:?]
+	at epe$e.b(SourceFile:94) ~[minecraft-1.20.2-client.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[20:50:56] [Render thread/WARN]: Failed to process task trial availablity, will repeat after 2 cycles
+ens: Realms authentication error with message 'Invalid session id'
+	at emf.a(SourceFile:432) ~[minecraft-1.20.2-client.jar:?]
+	at emf.k(SourceFile:392) ~[minecraft-1.20.2-client.jar:?]
+	at epe$e.b(SourceFile:94) ~[minecraft-1.20.2-client.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[20:50:56] [Render thread/WARN]: Failed to process task unread news, will repeat after 1 cycles
+ens: Realms authentication error with message 'Invalid session id'
+	at emf.a(SourceFile:432) ~[minecraft-1.20.2-client.jar:?]
+	at emf.j(SourceFile:381) ~[minecraft-1.20.2-client.jar:?]
+	at epe$e.b(SourceFile:94) ~[minecraft-1.20.2-client.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[20:50:56] [Render thread/WARN]: Failed to process task notifications, will repeat after 1 cycles
+ens: Realms authentication error with message 'Invalid session id'
+	at emf.a(SourceFile:432) ~[minecraft-1.20.2-client.jar:?]
+	at emf.c(SourceFile:149) ~[minecraft-1.20.2-client.jar:?]
+	at epe$e.b(SourceFile:94) ~[minecraft-1.20.2-client.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[20:50:56] [IO-Worker-90/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:50:56] [Render thread/WARN]: Failed to process task pending invite count, will repeat after 4 cycles
+ens: Realms authentication error with message 'Invalid session id'
+	at emf.a(SourceFile:432) ~[minecraft-1.20.2-client.jar:?]
+	at emf.h(SourceFile:342) ~[minecraft-1.20.2-client.jar:?]
+	at emf.g(SourceFile:337) ~[minecraft-1.20.2-client.jar:?]
+	at epe$e.b(SourceFile:94) ~[minecraft-1.20.2-client.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[20:50:56] [IO-Worker-108/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:50:56] [IO-Worker-106/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:50:56] [IO-Worker-107/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:50:56] [Render thread/INFO]: Stopping!

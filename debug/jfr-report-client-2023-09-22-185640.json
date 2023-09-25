@@ -1,0 +1,88 @@
+{
+  "startedEpoch": 1695427000583,
+  "endedEpoch": 1695427006345,
+  "durationMs": 5761,
+  "heap": {
+    "allocationRateBytesPerSecond": 3.9845888E7,
+    "gcCount": 2,
+    "gcOverHeadPercent": 0.2846728,
+    "gcTotalDurationMs": 1640
+  },
+  "cpuPercent": {
+    "jvm": {
+      "min": 0.0,
+      "average": 0.0022626073914580047,
+      "max": 0.005165085196495056
+    },
+    "userJvm": {
+      "min": 0.0,
+      "average": 0.05692828260362148,
+      "max": 0.07747627794742584
+    },
+    "system": {
+      "min": 0.08393386751413345,
+      "average": 0.32930106297135353,
+      "max": 1.0
+    }
+  },
+  "network": {
+    "sent": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    },
+    "received": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    }
+  },
+  "fileIO": {
+    "write": {
+      "totalBytes": 901,
+      "count": 5,
+      "bytesPerSecond": 180.2,
+      "countPerSecond": 1.0,
+      "topContributors": [
+        {
+          "path": "C:\\Program Files (x86)\\MultiMC\\instances\\1.20.1\\.minecraft\\command_history.txt",
+          "totalBytes": 385
+        },
+        {
+          "path": "logs\\latest.log",
+          "totalBytes": 258
+        }
+      ]
+    },
+    "read": {
+      "totalBytes": 2915,
+      "count": 4,
+      "bytesPerSecond": 583.0,
+      "countPerSecond": 0.8,
+      "topContributors": [
+        {
+          "path": "C:\\Program Files (x86)\\MultiMC\\libraries\\com\\mojang\\minecraft\\1.20.2\\minecraft-1.20.2-client.jar",
+          "totalBytes": 2915
+        }
+      ]
+    }
+  },
+  "serverTick": {
+    "minMs": 2.427614,
+    "averageMs": 4.177144,
+    "maxMs": 5.671286,
+    "p99": 5.65525985,
+    "p90": 5.5110245,
+    "p75": 5.27063225,
+    "p50": 4.304838
+  },
+  "threadAllocation": [],
+  "chunkGen": {
+    "durationNanosTotal": 0.0,
+    "status": []
+  }
+}

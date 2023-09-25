@@ -1,0 +1,31 @@
+/time set noon
+/summon minecraft:area_effect_cloud ~ ~ ~
+/kill @e[type=!minecraft:player]
+/kill @e[type=minecraft:area_effect_cloud]
+/summon minecraft:area_effect_cloud ~ ~ ~
+/kill @e[type=minecraft:area_effect_cloud]
+/gamerule logAdminCommands false
+/gamerule logAdminCommands
+/gamerule logAdminCommands true
+/gamerule commandBlockOutput false
+/help
+/jfr start
+/jfr stop
+/scoreboard
+/scoreboard objectives add max_steps dummy "Max Steps
+/scoreboard objectives add max_steps dummy "Max Steps"
+/scoreboard players add epicfacepace max_steps 50
+/scoreboard objectives setdisplay sidebar max_steps
+/scoreboard objectives add step dummy "Step"
+/scoreboard objectives setdisplay sidebar step
+/scoreboard players add epicfacepace step 0
+/scoreboard objectives add step_min dummy "Step Min"
+/scoreboard players add epicfacepace step_min 0
+/summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b}
+/time set noon
+/scoreboard objectives add timer dummy Timer
+/scoreboard objectives add timer dummy "Timer
+/scoreboard objectives add timer dummy "Timer"
+/scoreboard players add epicfacepace timer
+/scoreboard players add epicfacepace timer 0
+/scoreboard objectives setdisplay sidebar timer
