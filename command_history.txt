@@ -1,31 +1,50 @@
-/time set noon
-/summon minecraft:area_effect_cloud ~ ~ ~
-/kill @e[type=!minecraft:player]
-/kill @e[type=minecraft:area_effect_cloud]
-/summon minecraft:area_effect_cloud ~ ~ ~
-/kill @e[type=minecraft:area_effect_cloud]
-/gamerule logAdminCommands false
-/gamerule logAdminCommands
-/gamerule logAdminCommands true
+/execute positioned as epicfacepace rotated as epicfacepace summon minecraft:armor_stand
+/execute positioned as epicfacepace rotated as epicfacepace summon minecraft:armor_stand at epicfacepace
+/reload
+/function portal:start
+/reload
+/function portal:start
+/reload
+/function portal:start
+/execute anchored eyes run function portal:start
+/reload
+/execute anchored eyes run function portal:start
+/
+/execute anchored eyes run function portal:start
+/reload
+/execute anchored eyes run function portal:start
+/scoreboard players set epicfacepace max_steps 1000
+/execute anchored eyes run function portal:start
+/summon minecraft:interaction
+/reload
+/execute anchored eyes run function portal:start
+/summon minecraft:interaction
+/kill @e[type=minecraft:interaction]
+/execute anchored eyes run function portal:start
+/data get entity 2eb7155a-a8b8-46f0-be19-25bfe2619f5c
+/execute anchored eyes run function portal:start
 /gamerule commandBlockOutput false
-/help
-/jfr start
-/jfr stop
-/scoreboard
-/scoreboard objectives add max_steps dummy "Max Steps
-/scoreboard objectives add max_steps dummy "Max Steps"
-/scoreboard players add epicfacepace max_steps 50
-/scoreboard objectives setdisplay sidebar max_steps
-/scoreboard objectives add step dummy "Step"
-/scoreboard objectives setdisplay sidebar step
-/scoreboard players add epicfacepace step 0
-/scoreboard objectives add step_min dummy "Step Min"
-/scoreboard players add epicfacepace step_min 0
-/summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b}
-/time set noon
-/scoreboard objectives add timer dummy Timer
-/scoreboard objectives add timer dummy "Timer
-/scoreboard objectives add timer dummy "Timer"
-/scoreboard players add epicfacepace timer
-/scoreboard players add epicfacepace timer 0
-/scoreboard objectives setdisplay sidebar timer
+/execute anchored eyes run function portal:start
+/summon minecraft:interaction ~ ~ ~ {Size:2}
+/summon minecraft:interaction ~ ~ ~ {Width:2.0f,Height:2.0f}
+/summon minecraft:interaction ~ ~ ~ {width:2.0f,height:2.0f}
+/execute anchored eyes run function portal:start
+/reload
+/execute anchored eyes run function portal:start
+/reload
+/execute anchored eyes run function portal:start
+/summon minecraft:interaction ~ ~ ~ {width:6.0f,height:6.0f}
+/summon minecraft:interaction ~ ~-2 ~ {width:6.0f,height:6.0f}
+/scoreboard objectives add use_air air "Use Air"
+/scoreboard players add epicfacepace use_air 0
+/scoreboard objectives setdisplay list use_air
+/summon minecraft:interaction ~ ~-2 ~ {width:6.0f,height:6.0f}
+/kill @e[type=minecraft:armor_stand]
+/setblock ~ ~ ~ air
+/setblock ~ ~-1 ~ air
+/kill @e[type=minecraft:interaction]
+/summon minecraft:interaction ~ ~-2 ~ {width:6.0f,height:6.0f}
+/kill @e[type=minecraft:interaction]
+/reload
+/summon minecraft:interaction ~ ~-2 ~ {width:6.0f,height:6.0f}
+/kill @e[type=minecraft:armor_stand]
