@@ -1,25 +1,3 @@
-/execute positioned as epicfacepace rotated as epicfacepace summon minecraft:armor_stand
-/execute positioned as epicfacepace rotated as epicfacepace summon minecraft:armor_stand at epicfacepace
-/reload
-/function portal:start
-/reload
-/function portal:start
-/reload
-/function portal:start
-/execute anchored eyes run function portal:start
-/reload
-/execute anchored eyes run function portal:start
-/
-/execute anchored eyes run function portal:start
-/reload
-/execute anchored eyes run function portal:start
-/scoreboard players set epicfacepace max_steps 1000
-/execute anchored eyes run function portal:start
-/summon minecraft:interaction
-/reload
-/execute anchored eyes run function portal:start
-/summon minecraft:interaction
-/kill @e[type=minecraft:interaction]
 /execute anchored eyes run function portal:start
 /data get entity 2eb7155a-a8b8-46f0-be19-25bfe2619f5c
 /execute anchored eyes run function portal:start
@@ -48,3 +26,25 @@
 /reload
 /summon minecraft:interaction ~ ~-2 ~ {width:6.0f,height:6.0f}
 /kill @e[type=minecraft:armor_stand]
+/scoreboard objectives setdisplay sidebar step
+/scoreboard objectives setdisplay list step
+/scoreboard objectives setdisplay sidebar
+/kill 21f680aa-f45c-42d5-8f6b-99d8c5a7930e
+/summon minecraft:block_display ~ ~ ~
+/kill @e[type=minecraft:block_display]
+/summon minecraft:block_display 4.21 -32.00 7.83 {block_state:{Name:"minecraft:orange_wool"}}
+/summon minecraft:block_display ~ ~ ~ {block_state:{Name:"minecraft:orange_wool"}}
+/scoreboard objectives remove timer
+/summon minecraft:interaction
+/data get entity 6fe04efd-de3c-4e27-bd1f-d8f4eaf9bcce
+/data merge entity 6fe04efd-de3c-4e27-bd1f-d8f4eaf9bcce {Tag:"1"}
+/data get entity 6fe04efd-de3c-4e27-bd1f-d8f4eaf9bcce
+/tag 6fe04efd-de3c-4e27-bd1f-d8f4eaf9bcce list
+/tag 6fe04efd-de3c-4e27-bd1f-d8f4eaf9bcce add Blue
+/data get entity 6fe04efd-de3c-4e27-bd1f-d8f4eaf9bcce
+/summon minecraft:interaction ~ ~ ~
+/tag 4600bb5f-6be9-4ae4-991b-28695cebe3a5 add Orange
+/tp ~ ~10 ~
+/execute at @s if entity @e[type=minecraft:interaction,distance=..1] run say e
+/execute at @s if entity @e[type=minecraft:interaction,distance=..1] at @e[type=minecraft:interaction,tag=Orange] as @s run tp ~ ~10 ~
+/summon minecraft:interaction ~ ~ ~ {width:6.0f,height:6.0f}
