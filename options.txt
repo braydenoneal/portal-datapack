@@ -32,8 +32,8 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:1.0
-renderDistance:12
-simulationDistance:12
+renderDistance:5
+simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:0
 particles:0
