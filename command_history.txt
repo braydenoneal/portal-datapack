@@ -1,50 +1,50 @@
-/execute as @e[type=minecraft:interaction,tag=Blue] run tp 8.00 -32 3
-/execute as @e[type=minecraft:interaction,tag=Blue] run tp 8.00 -32 3.5
-/execute as @e[type=minecraft:interaction,tag=Blue] run tp 8.5 -32 3.5
-/execute as @e[type=minecraft:interaction,tag=Orange] run tp 12.5 -32 3.5
-/tp ~ ~10 ~
-/summon minecraft:block_display 8 -32 0 {block_state:{Name:"white_wool"}}
-/summon minecraft:block_display 8.5 -32 0.5 {block_state:{Name:"white_wool"}}
-/kill @e[type=minecraft:block_display]
-/summon minecraft:block_display 8.5 -32 0.5 {block_state:{Name:"white_wool"}}
-/summon minecraft:block_display 8 -32 0 {block_state:{Name:"white_wool"}}
-/kill @e[type=minecraft:block_display]
-/summon minecraft:block_display 8 -32 0 {block_state:{Name:"white_wool"}}
-/execute as @e[type=minecraft:block_display] at @e[type=minecraft:block_display] run tp 8 -32 0
-/execute as @e[type=minecraft:block_display] at @e[type=minecraft:block_display] run tp 8.0 -32 0.0
-/summon minecraft:block_display 8.0 -31 0.0 {block_state:{Name:"white_wool"}}
-/kill @e[type=minecraft:block_display]
-/summon minecraft:block_display 8.0 -31 0.0 {block_state:{Name:"blue_wool"}}
-/kill @e[type=minecraft:block_display]
-/summon minecraft:block_display 8.0 -31 0.0 {block_state:{Name:"cyan_wool"}}
-/summon minecraft:block_display 8.0 -32 0.0 {block_state:{Name:"cyan_wool"}}
-/summon minecraft:block_display 12.0 -32 0.0 {block_state:{Name:"orange_wool"}}
-/summon minecraft:block_display 12.0 -31 0.0 {block_state:{Name:"orange_wool"}}
-/execute as @e[type=minecraft:interaction] at @e[type=minecraft:interaction] run tp ~ ~ ~-3
-/execute as @e[type=minecraft:interaction,tag=Blue] at @e[type=minecraft:interaction,tag=Blue] run tp ~-4 ~ ~
-/tp
-/tp @s ~ ~ ~ ~ ~180
-/tp @s ^ ^ ^ ~ ~
-/tp @s ^ ^ ^ ~ ~1
-/tp @s ^ ^ ^ ~ ~2
-/tp @s ^ ^ ^ ~10 ~
-/tp @s ^ ^ ^ ~180 ~
-/tag epicfacepace list
-/tag epicfacepace add to_blue
-/tag epicfacepace list
-/tag epicfacepace remove to_blue
-/tag epicfacepace list
-/tp ~ ~10 ~
-/fill ~-10 ~-10 ~-10 ~10 ~10 ~10 stone replace minecraft:white_wool
-/execute at @e[tag=Blue,limit=1] as @e[tag=Orange,limit=1] run tp ~ ~ ~5
-/execute at @e[tag=Blue,limit=1] as @e[type=minecraft:block_display,nbt={block_state:{Name:"orange_wool"}},limit=1] run tp ~ ~ ~5
-/execute at @e[tag=Blue,limit=1] as @e[type=minecraft:block_display,nbt={block_state:{Name:"minecraft:orange_wool"}},limit=1] run tp ~ ~ ~5
-/data modify entity 4600bb5f-6be9-4ae4-991b-28695cebe3a5 transformation.scale set value [1f, 1f, 0.2f]
-/data get entity 4600bb5f-6be9-4ae4-991b-28695cebe3a5
-/data merge entity 4600bb5f-6be9-4ae4-991b-28695cebe3a5 {Rotation:[0f,0f]}
-/data merge entity @e[type=minecraft:block_display,limit=1] {Rotation:[0f,0f]}
-/data merge entity @e[type=minecraft:block_display,limit=1,nbt={block_state:{Name:"orange_wool"}}] {Rotation:[0f,0f]}
-/data merge entity @e[type=minecraft:block_display,limit=1,nbt={block_state:{Name:"minecraft:orange_wool"}}] {Rotation:[0f,0f]}
-/execute at 4600bb5f-6be9-4ae4-991b-28695cebe3a5 as @e[type=minecraft:block_display,limit=1,nbt={block_state:{Name:"minecraft:orange_wool"}}] run tp ~ ~ ~
-/execute at 4600bb5f-6be9-4ae4-991b-28695cebe3a5 as @e[type=minecraft:block_display,limit=1,nbt={block_state:{Name:"minecraft:orange_wool"}}] run tp ~.5 ~ ~.5
-/execute at 4600bb5f-6be9-4ae4-991b-28695cebe3a5 as @e[type=minecraft:block_display,limit=1,nbt={block_state:{Name:"minecraft:orange_wool"}}] run tp ~-.5 ~ ~-.5
+/scoreboard objectives setdisplay sidebar double_string
+/execute store result score part1 double_string run data get storage minecraft:str str2
+/data modify storage minecraft:str str2 set from entity epicfacepace Pos[0]
+/data get storage minecraft:str
+/data modify storage minecraft:str str3 set string storage minecraft:str str2 7 -1
+/data get storage minecraft:str
+/data modify storage minecraft:str str3 set string storage minecraft:str str2 0 2
+/data get storage minecraft:str
+/data modify storage minecraft:str str3 set string storage minecraft:str str2 0 3
+/data get storage minecraft:str
+/data modify storage minecraft:str str4 set string storage minecraft:str str2
+/data get storage minecraft:str
+/data modify storage minecraft:str str3 set string storage minecraft:str str2 -1
+/data get storage minecraft:str
+/execute store result score part2 double_string run data get storage minecraft:str str3
+/execute store result score part2 double_string run data get storage minecraft:str str3 1
+/execute store result score part2 double_string run data get storage minecraft:str str4
+/execute store result storage minecraft:str str5 double 1 run data get storage minecraft:str str4
+/data get storage minecraft:str
+/time set night
+/data merge storage string {text:"-1.2098098d"}
+/data get storage minecraft:string
+/execute store result storage minecraft:string len int 1 run data get storage minecraft:string text
+/data get storage minecraft:string
+/scoreboard objectives add data dummy "Data"
+/scoreboard objectives setdisplay sidebar data
+/data get storage minecraft:string
+/time set noon
+/reload
+/function portal:print {text:"array"}
+/tellraw @a "sdf"
+/reload
+/tellraw @a "sdf"
+/function portal:print {text:"array"}
+/data get storage minecraft:data
+/data get block 11 -32 -21
+/data get block 9 -32 -26
+/data get block 11 -32 -21 tag.pages[0]
+/data get block 11 -32 -21
+/data get block 11 -32 -21 Book.tag.pages[0]
+/data get block 13 -32 -21 Command
+/reload
+/function portal:substr with storage minecraft:data
+/data get storage minecraft:array
+/execute align xyz run tp epicfacepace ~ ~ ~
+/tp epicfacepace ~.3 ~ ~
+/
+/tp epicfacepace ~.3 ~ ~
+/tp epicfacepace ~.1 ~ ~
+/tp epicfacepace ~.003 ~ ~
